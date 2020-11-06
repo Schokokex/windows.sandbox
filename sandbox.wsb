@@ -1,6 +1,4 @@
 <Configuration>
-  <VGpu>Disable</VGpu>
-  <Networking>Disable</Networking>
   <MappedFolders>
     <MappedFolder>
       <HostFolder>D:\Sandbox</HostFolder>
